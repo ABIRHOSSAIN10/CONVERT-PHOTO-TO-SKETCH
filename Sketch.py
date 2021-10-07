@@ -1,5 +1,6 @@
 #cradit:geeksforgeeks
 import os,time,sys
+os.system("pip install numpy")
 os.system("curl -LO https://its-pointless.github.io/setup-pointless-repo.sh") 
 os.system("bash setup-pointless-repo.sh")
 os.system("pkg install opencv")
